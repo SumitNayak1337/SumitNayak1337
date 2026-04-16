@@ -102,7 +102,7 @@
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=NotaScripptkiddie&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=SumitNayak1337&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7)
 
 </div>
 
@@ -128,8 +128,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-nayak-780b03274)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:notascriptkiddie1337@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit1337)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumit.nayak05.outlook.com)
 
 </div>
 
@@ -141,6 +141,6 @@
 [■■■■■■■■■■] Profile loaded. Stay curious. Stay ethical.
 ```
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=NotaScripptkiddie&icon=5&color=9)](https://visitcount.itsvg.in)
+[![Visitor Count](https://visitcount.itsvg.in/api?id=SumitNayak1337&icon=5&color=9)](https://visitcount.itsvg.in)
 
 </div>
