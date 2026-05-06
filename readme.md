@@ -1,146 +1,24 @@
-<!-- Header -->
-<div align="center">
 
-```
-██████╗  ██████╗  ██████╗ ████████╗    ███████╗██╗   ██╗███╗   ███╗██╗████████╗
-██╔══██╗██╔═══██╗██╔═══██╗╚══██╔══╝    ██╔════╝██║   ██║████╗ ████║██║╚══██╔══╝
-██████╔╝██║   ██║██║   ██║   ██║       ███████╗██║   ██║██╔████╔██║██║   ██║   
-██╔══██╗██║   ██║██║   ██║   ██║       ╚════██║██║   ██║██║╚██╔╝██║██║   ██║   
-██║  ██║╚██████╔╝╚██████╔╝   ██║       ███████║╚██████╔╝██║ ╚═╝ ██║██║   ██║   
-╚═╝  ╚═╝ ╚═════╝  ╚═════╝    ╚═╝       ╚══════╝ ╚═════╝ ╚═╝     ╚═╝╚═╝   ╚═╝   
-```
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sm_sumit_u) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sumit1337) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sumit.nayak05@outlook.com) 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=root%40sumit%3A~%23+whoami;Security+Researcher+%7C+CTF+Player;Not+a+Script+Kiddie+%F0%9F%90%A7;Hacking+for+Good+%E2%9C%85" alt="Typing SVG" />
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=SumitNayak1337&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=SumitNayak1337&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=SumitNayak1337&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SumitNayak1337&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## `root@sumit:~# cat about_me.txt`
-
-```bash
-┌──────────────────────────────────────────────────────────────┐
-│                        > SYSTEM INFO                         │
-├──────────────────────────────────────────────────────────────┤
-│  NAME     : Sumit Nayak                                      │
-│  ALIAS    : NotaScriptkiddie                                 │
-│  LOCATION : India 🇮🇳                                        │
-│  ROLE     : Security Researcher & Full-Stack Dev             │
-│  STATUS   : [■■■■■■■■░░] Leveling up...                     │
-│  MISSION  : Break things ethically. Fix them properly.       │
-└──────────────────────────────────────────────────────────────┘
-```
-
-> *"The quieter you become, the more you are able to hear."* — Kali Linux
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=SumitNayak1337&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=SumitNayak1337&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## `root@sumit:~# cat ctf_profile.txt`
-
-```
-[*] TryHackMe Profile .............. ACTIVE
-[*] Specialization ................. Web Exploitation, Privesc, Recon
-[*] Approach ....................... Methodical. No shortcuts.
-[*] CTF Style ...................... Black screen. Green text. Go.
-```
-
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/NotaScriptkiddie.png)](https://tryhackme.com/p/NotaScriptkiddie)
-
----
-
-## `root@sumit:~# ls -la skills/`
-
-### 🔐 Security Arsenal
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-
-### 💻 Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-
-### 🛠️ Frameworks & Tools
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-
-### 🗄️ Databases & Version Control
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-
----
-
-## `root@sumit:~# ./github_stats.sh`
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NotaScripptkiddie&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9)
-
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=NotaScripptkiddie&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NotaScripptkiddie&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9)
-
-</div>
-
----
-
-## `root@sumit:~# cat trophies.log`
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=SumitNayak1337&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7)
-
-</div>
-
----
-
-## `root@sumit:~# git log --top-contributions`
-
-<div align="center">
-
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=NotaScripptkiddie&limit=5&theme=dark&combine_all_yearly_contributions=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9)
-
-</div>
-
----
-
-## `root@sumit:~# cat /etc/contact`
-
-```
-[+] LinkedIn  ➜  https://www.linkedin.com/in/sumit-nayak-780b03274
-[+] Email     ➜  notascriptkiddie1337@gmail.com
-[+] TryHackMe ➜  https://tryhackme.com/p/NotaScriptkiddie
-```
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit1337)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumit.nayak05.outlook.com)
-
-</div>
-
----
-
-<div align="center">
-
-```
-[■■■■■■■■■■] Profile loaded. Stay curious. Stay ethical.
-```
-
-[![Visitor Count](https://visitcount.itsvg.in/api?id=SumitNayak1337&icon=5&color=9)](https://visitcount.itsvg.in)
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
